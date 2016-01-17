@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Our team of painters are experts at painting kitchens. Whether you have an old ugly kitchen or are in the design phase of a brand new kitchen, iPaint can transform your kitchen into a stylish oasis you’re sure to love! Oh, did I mention…make your neighbors jealous too!'
-datePublished: '2016-01-17T19:04:23.305Z'
-dateModified: '2016-01-17T19:02:30.579Z'
+datePublished: '2016-01-17T19:30:14.799Z'
+dateModified: '2016-01-17T19:30:04.026Z'
 title: Kitchen Painting
 author: []
 sourcePath: _posts/2016-01-17-kitchen-painting.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 url: kitchen-painting/index.html
 _type: Article
 
@@ -43,5 +43,4 @@ Our team of painters are experts at painting kitchens. Whether you have an old u
 * For simple 1 solid color paint jobs... add up your cabinet doors and drawer opening, then times by $65
 * For multi solid color paint jobs... add up your cabinet doors and drawer opening, then times by $85
 * For antiqued, distressed, or glazed paint jobs... add up your cabinet doors and drawer opening, then times by $100-150 (price increases depending on the look you want, and level of distressing)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c1bce8a-dd24-4e49-9871-07b899cadaab.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/912e8882-2159-44b8-9b24-d49318c2f97b.jpg)
