@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Two simple ways to get an estimate. Online Estimator. Schedule Estimate '
-datePublished: '2016-01-17T19:46:51.645Z'
-dateModified: '2016-01-17T19:46:45.734Z'
+datePublished: '2016-01-17T19:46:51.954Z'
+dateModified: '2016-01-17T19:46:51.645Z'
 title: Estimates
 author: []
 sourcePath: _posts/2016-01-17-estimates.md
