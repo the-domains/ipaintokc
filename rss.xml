@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Oklahoma City Paint Contractor]]></title>
+        <description><![CDATA[Oklahoma City Paint Contractor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jan 2016 19:04:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It’s all about You and Your Kitchen!]]></title>
+            <description><![CDATA[<article><h1>It’s all about You and Your Kitchen!</h1><p>Our team of painters are experts at painting kitchens. Whether you have an old ugly kitchen or are in the design phase of a brand new kitchen, iPaint can transform your kitchen into a stylish oasis you’re sure to love! Oh, did I mention…make your neighbors jealous too!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc793f209d8f63ee91336cfe955609a1c116b655.jpg"></article>]]></description>
+            <link>undefinedkitchen-painting/index.html</link>
+            <guid isPermaLink="false">ec4168ec-ebd9-424a-b907-784ed99782ec</guid>
+            <pubDate>Sun, 17 Jan 2016 19:04:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
