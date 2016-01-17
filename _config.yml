@@ -1,29 +1,41 @@
-name: ipaintokc
-favicon: null
-layout_spectrum: 0.5
-typography_spectrum: 0.50221
 title: Oklahoma City Paint Contractor
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.867252757307142
+  lightness: 0.5694621987640858
+  brandStrength: 0.6816009
+  brandColors:
+    - '#B3B3B3'
+    - '#FFFFFF'
+    - '#7EBEC5'
+    - '#2B3A3C'
+    - '#888889'
+  rhythmicContrast: 0.3912595175206661
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: ipaintokc
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5
-  lightness: 0.5694621987640858
-  saturation: 0.867252757307142
-  rhythmicContrast: 0.3912595175206661
-purpose: []
+typography_spectrum: 0.50221
+layout_spectrum: 1
