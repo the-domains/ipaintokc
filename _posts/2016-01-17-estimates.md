@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Two simple ways to get an estimate. Online Estimator. Schedule Estimate '
-datePublished: '2016-01-17T19:46:51.987Z'
-dateModified: '2016-01-17T19:46:51.645Z'
+datePublished: '2016-01-17T20:39:09.234Z'
+dateModified: '2016-01-17T20:21:43.523Z'
 title: Estimates
 author: []
 sourcePath: _posts/2016-01-17-estimates.md
@@ -22,7 +22,7 @@ url: estimates/index.html
 _type: Article
 
 ---
-## Getting an Estimate is simple. 
+## 2 Easy Ways to Get an Estimate. 
 
 1\. If your not sure what painting cost and simply want a Ballpark price please send us and email with pictures of your project, dimensions, and what you're wanting completed. 
 
