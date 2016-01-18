@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: What you get. What we do. What to Expect.
-datePublished: '2016-01-18T05:27:59.585Z'
-dateModified: '2016-01-18T05:27:38.313Z'
-title: WHY CHOOSE US?
+datePublished: '2016-01-18T06:00:29.986Z'
+dateModified: '2016-01-18T06:00:26.507Z'
+title: Why Choose Us?
 author: []
 authors: []
 publisher:
@@ -22,8 +22,6 @@ url: why-choose-us/index.html
 _type: Article
 
 ---
-# WHY CHOOSE US?
-
 ## What you get? 
 
 **Tired of your boring home?** We can change that! We will make your home a STAR! Friends, Family and Customers will be amazed when they see your newly transformed Home, Office, or Workplace!
@@ -49,3 +47,4 @@ _type: Article
 **We are members** of various online painting websites, continually educating ourselves so we can offer our customers the best quality services. We provide professional painting services to the Oklahoma City metro area, and create lasting relationships with customers.
 
 **Our customers** receive professional service, including a descriptive estimate, paint recommendations, and specs to meet their needs. You'll also be shown the most popular interior/exterior colors, and receive copy of our 1 million dollar liability insurance policy.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0056fb92-cd10-41b8-a1ad-bbce9b7375d5.jpg)
