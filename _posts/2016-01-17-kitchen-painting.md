@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Our team of painters are experts at painting kitchens. Whether you have an old ugly kitchen or are in the design phase of a brand new kitchen, iPaint can transform your kitchen into a stylish oasis you’re sure to love! Oh, did I mention…make your neighbors jealous too!'
-datePublished: '2016-01-17T20:40:14.262Z'
+datePublished: '2016-01-17T20:40:14.272Z'
 dateModified: '2016-01-17T20:40:11.759Z'
 title: Kitchen Painting
 author: []
