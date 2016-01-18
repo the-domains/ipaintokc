@@ -1,25 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T20:05:20.078Z'
-dateModified: '2016-01-17T20:05:03.357Z'
+datePublished: '2016-01-17T20:39:30.360Z'
+dateModified: '2016-01-17T20:06:05.929Z'
 title: 'We love how this Kitchen turned out!'
 author: []
+sourcePath: _posts/2016-01-17-we-love-how-this-kitchen-turned-out.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-we-love-how-this-kitchen-turned-out.md
-published: true
-url: we-love-how-this-kitchen-turned-out/index.html
-_type: Article
+_type: Blurb
 
 ---
 # We love how this Kitchen turned out!
