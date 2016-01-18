@@ -1,20 +1,7 @@
 name: ipaintokc
 favicon: null
-layout_spectrum: 0.49883
-typography_spectrum: 0.50221
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: iPaint
+layout_spectrum: 0.5434383382089436
+typography_spectrum: 0.070248335134238
 cta:
   domain: null
   bucket: null
@@ -29,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B3B3B3'
-    - '#FFFFFF'
-    - '#7EBEC5'
-    - '#2B3A3C'
-    - '#888889'
-  brandStrength: 0.6816009
-  lightness: 0.8125
-  saturation: 0.9375
-  rhythmicContrast: 0.5
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5777248493395746
+  lightness: 0.5694621987640858
+  saturation: 0.867252757307142
+  rhythmicContrast: 0.3912595175206661
 purpose: []
