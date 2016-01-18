@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Our team of painters are experts at painting kitchens. Whether you have an old ugly kitchen or are in the design phase of a brand new kitchen, iPaint can transform your kitchen into a stylish oasis you’re sure to love! Oh, did I mention…make your neighbors jealous too!'
-datePublished: '2016-01-17T19:57:44.524Z'
-dateModified: '2016-01-17T19:57:40.143Z'
+datePublished: '2016-01-17T20:40:14.262Z'
+dateModified: '2016-01-17T20:40:11.759Z'
 title: Kitchen Painting
 author: []
 sourcePath: _posts/2016-01-17-kitchen-painting.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ### Its all about you and your Kitchen! 
 
-First off... your Kitchen Cabinetry is not a bedroom wall. Do you want an Average Joe Painter to paint your cabinets who doesn't have a solid picture portfolio, insurance, and gave you the lowest Bid?  Of course not... you want a reasonably priced professional painter who knows how to paint kitchens like a craftsman and takes pride in his work. Hire a Pro and your Kitchen will thank you!
+**Learn How We Paint Your Kitchen.** First off... your Kitchen Cabinetry is not a bedroom wall. Do you want an Average Joe Painter to paint your cabinets who doesn't have a solid picture portfolio, insurance, and gave you the lowest Bid?  Of course not... you want a reasonably priced professional painter who knows how to paint kitchens like a craftsman and takes pride in his work. Hire a Pro and your Kitchen will thank you!
 
 **How we paint a kitchen**
 
