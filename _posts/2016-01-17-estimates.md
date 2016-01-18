@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Two simple ways to get an estimate. Online Estimator. Schedule Estimate '
-datePublished: '2016-01-17T20:39:09.234Z'
+datePublished: '2016-01-17T20:39:09.293Z'
 dateModified: '2016-01-17T20:21:43.523Z'
 title: Estimates
 author: []
